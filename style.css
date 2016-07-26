@@ -132,7 +132,7 @@ article div.pod-img {height:0px;padding-bottom:50%;overflow:hidden;}
 article div.pod-img img {position:absolute;top:-9999px;bottom:-9999px;left:-9999px;right:-9999px;margin:auto;}
 .pod-img span {position:absolute;width:100%;top:40%;left:0px;text-align:center;font-size:190%;color:#FFF;font-weight:900;padding:0px 12%;text-shadow:0px 0px 10px #333;letter-spacing:0.05em;}
 article div.pod-img span {top:34.5%;}
-.pod-title {font-size:180%;color:#FFF;font-style:italic;padding:2px 15px;}
+.pod-title {font-size:180%;color:#FFF;font-style:italic;padding:2px 15px;margin-top:3px;}
 .pod-data {color:#5c5c5c;padding:10px 15px;font-size:120%;margin-top:20px;}
 .pod-play {position:absolute;bottom:5px;right:10px;}
 .more-posts {height:58px;background:#000;color:#FFF;line-height:58px;width:100%;position:absolute;bottom:0px;font-size:120%;left:0px;}
